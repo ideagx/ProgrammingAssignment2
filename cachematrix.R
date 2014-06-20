@@ -30,5 +30,4 @@ cacheSolve <- function(x, ...) {
         m <- mean(data, ...)
         x$setmean(m)
         m
-        ## Return a matrix that is the inverse of 'x'
 }
